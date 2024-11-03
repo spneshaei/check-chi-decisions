@@ -6,6 +6,8 @@ In addition, the script will also let you know about the papers without an 1AC (
 
 This script is developed by Seyed Parsa Neshaei on November 2024. This script is only validated to be used by the subcommittee chairs for the first round of reviews at CHI 2024; it might need changes for other iterations of the conference. There is no guarantee provided of any kind for the code; use it only in addition to checking the results manually. Let me know via GitHub issues if you found any bugs or have any suggestions!
 
+**Known limitation:** the script does not necessarily show correct information for papers that you are conflicted with.
+
 ## How to use the script
 
 1. Clone this GitHub repository or download it as a ZIP file and extract it.
